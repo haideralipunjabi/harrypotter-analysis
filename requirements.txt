@@ -1,0 +1,6 @@
+beautifulsoup4
+nltk
+wordcloud
+pillow
+matplotlib
+numpy
